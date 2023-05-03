@@ -1,0 +1,3 @@
+wsl-ubuntu-app01                ansible_port=33334
+wsl-ubuntu-app02                ansible_port=33335
+wsl-ubuntu-app03                ansible_port=33336

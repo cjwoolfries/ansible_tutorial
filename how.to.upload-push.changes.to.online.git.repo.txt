@@ -1,1 +1,1 @@
-vi testing; git add testing; git commit -m "initial commit"; git push origin main;
+vi testing; git status; git diff testing; git add testing; git commit -m "initial commit"; git push origin main;
